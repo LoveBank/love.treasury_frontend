@@ -1,5 +1,4 @@
-body {
-  margin: 0;
-  padding: 0;
-  font-family: sans-serif;
+html {
+  --mdc-theme-primary: #F5971C !important;
+  --mdc-theme-accent: #939498 !important;
 }
