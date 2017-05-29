@@ -3,12 +3,16 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "history": "^4.6.1",
+    "localforage": "^1.5.0",
     "normalize.css": "^7.0.0",
     "preact": "^8.1.0",
     "preact-compat": "^3.16.0",
     "preact-material-components": "^1.0.6",
+    "react-redux": "^5.0.5",
     "react-router-dom": "^4.1.1",
     "redux": "^3.6.0",
+    "redux-persist": "^4.8.0",
     "styled-components": "^2.0.0"
   },
   "devDependencies": {
@@ -18,8 +22,8 @@
     "prettier-eslint": "^6.2.3",
     "prettier-eslint-cli": "^4.0.2",
     "react-app-rewire-preact": "^1.0.1",
-    "react-app-rewired": "^1.0.2",
-    "react-scripts": "1.0.6",
+    "react-app-rewired": "^1.0.4",
+    "react-scripts": "1.0.7",
     "workbox-cli": "^1.0.0"
   },
   "eslintConfig": {
